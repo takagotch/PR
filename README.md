@@ -1,5 +1,6 @@
 ## speakerDeck
-https://speakerdeck.com/
+https://speakerdeck.com/takagotch
+
 ## slideshare
 https://www.slideshare.net/linkedin
 ## Google
