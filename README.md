@@ -1,4 +1,6 @@
-# Presentation(PR)
+## Presentation(PR)
+
+## .pdf
 
 ## speakerDeck
 https://speakerdeck.com/takagotch
@@ -10,4 +12,6 @@ https://docs.google.com/presentation/
 ## Office
 https://products.office.com/ja-jp/home
 
+## outlook
+https://outlook.live.com/owa/?authRedirect=true
 
