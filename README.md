@@ -1,9 +1,12 @@
 ## Presentation(PR)
-
-## .pdf
+### .pdf
 
 ## speakerDeck
 https://speakerdeck.com/takagotch
+
+### gravatar
+https://ja.gravatar.com/
+
 
 ## slideshare
 https://www.slideshare.net/linkedin
