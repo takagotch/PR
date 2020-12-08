@@ -1,9 +1,9 @@
-## Presentation(PR)
-### .pdf
+### Presentation(PR)
+##### .pdf
 ---
 ---
 
-## speakerDeck
+### speakerDeck
 https://speakerdeck.com/takagotch
 
 ### gravatar
@@ -21,12 +21,12 @@ https://www.ilovepdf.com/ja/merge_pdf
 
 ---
 
-## Google
+### Google
 https://docs.google.com/presentation/
-## Office
+### Office
 https://products.office.com/ja-jp/home
 
-## outlook
+### outlook
 https://outlook.live.com/owa/?authRedirect=true
 
 
