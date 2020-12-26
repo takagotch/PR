@@ -3,15 +3,15 @@
 ---
 ---
 
-### speakerDeck
+###### speakerDeck
 https://speakerdeck.com/takagotch
 
-### gravatar
+###### gravatar
 https://ja.gravatar.com/
 
 ---
 
-###### slideshare
+### slideshare
 https://www.slideshare.net/TakashiYoshioka4/clipboards
 
 https://www.slideshare.net/linkedin
